@@ -1,1 +1,1 @@
-# ICS3U-Unit1-02-Python-Hello_World
+# ICS3U-Unit1-02-C++-Hello_World
